@@ -1,7 +1,7 @@
 {
   "name": "githubio",
   "version": "0.1.0",
-  "homepage": "https://hyunseung-asong.github.io/react-gh-pages",
+  "homepage": "https://hyunseung-asong.github.io/",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
